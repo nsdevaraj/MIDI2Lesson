@@ -1,0 +1,6 @@
+{
+  "name": "MIDI to Lesson Converter",
+  "description": "Convert MIDI files into Virtuoso piano lesson code with fingering heuristics, quantization, audio preview, and export options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
